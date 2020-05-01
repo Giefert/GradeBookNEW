@@ -1,7 +1,4 @@
-using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 using System;
-using System.Collections.Generic;
-using System.Reflection.Metadata;
 using Xunit;
 
 namespace GradeBookNEW.Tests2

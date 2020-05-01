@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace GradeBookNEW
+﻿namespace GradeBookNEW
 {
     public class Statistics
     {
